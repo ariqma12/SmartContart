@@ -1,0 +1,10 @@
+# My ERC20 Token
+
+## Smart Contract Details
+- **Contract Address**: `0x123456789abcdef123456789abcdef123456789a`
+- **Network**: Ethereum Mainnet
+- **Explorer Link**: [View on Etherscan](https://etherscan.io/address/0x1aa04d90416a94ce0c63b8f2086d5d7fe8fb501f2016d96cb51c4e068beb3f7e)
+- **Deployed By**: MyWalletAddress (`0xFE367157Cb38601c6880992eB11A49261718Dc43`)
+
+## Description
+This is an ERC20 token deployed for testing purposes. The contract implements standard ERC20 functionality.
